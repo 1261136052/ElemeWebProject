@@ -13,6 +13,7 @@ import org.springframework.web.filter.CorsFilter;
 public class StartWeb {
     public static void main(String[] args) {
         SpringApplication.run(StartWeb.class);
+        System.out.println("aaa");
     }
 
     /**
