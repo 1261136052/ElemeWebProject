@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af54b552-52b1-4b68-bdba-685c42b4e578" name="Default Changelist" comment="test" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="b73c417c-aaaa-405b-b833-1f87691937ec" />
+  <component name="ProjectId" id="1tQOQcxoHUvKGPE7fCmCaH5yNOD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.eleme" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ElemeWebProject\src\main\resources" />
+      <recent name="E:\ElemeWebProject\src\main\resources\static\uploads" />
+      <recent name="E:\bossWebProject\src\main\java\org\example\boss" />
+      <recent name="E:\bossWebProject\src\main\java\org\example\boss\model" />
+      <recent name="E:\bossWebProject\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.boss.controller" />
+      <recent name="org.example.boss.mapper" />
+      <recent name="org.example.boss.model" />
+      <recent name="org.example.eleme.model" />
+      <recent name="org.example.eleme.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StartWeb">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartWeb (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="bossWebProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.boss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.boss.StartWeb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartWeb" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ElemeWebProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.eleme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.eleme.StartWeb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StartWeb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af54b552-52b1-4b68-bdba-685c42b4e578" name="Default Changelist" comment="" />
+      <created>1622697833738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622697833738</updated>
+      <workItem from="1622697834841" duration="536000" />
+      <workItem from="1622787820497" duration="12984000" />
+      <workItem from="1622817495579" duration="1641000" />
+      <workItem from="1622861559719" duration="10889000" />
+      <workItem from="1623032447817" duration="3948000" />
+      <workItem from="1623048579454" duration="9129000" />
+      <workItem from="1623113079009" duration="22719000" />
+      <workItem from="1623210169855" duration="9217000" />
+      <workItem from="1623304784117" duration="4305000" />
+      <workItem from="1623372165602" duration="4730000" />
+      <workItem from="1623716339194" duration="2753000" />
+      <workItem from="1623826838786" duration="3266000" />
+      <workItem from="1623830155140" duration="172000" />
+      <workItem from="1623830343962" duration="3393000" />
+      <workItem from="1624083937072" duration="6188000" />
+      <workItem from="1624256125918" duration="6831000" />
+      <workItem from="1624425178920" duration="7600000" />
+      <workItem from="1624582540144" duration="1000" />
+      <workItem from="1624842429268" duration="13222000" />
+      <workItem from="1625036073261" duration="2804000" />
+      <workItem from="1625283920057" duration="4184000" />
+      <workItem from="1625463445546" duration="3278000" />
+      <workItem from="1625473629785" duration="154000" />
+      <workItem from="1625473879142" duration="42000" />
+      <workItem from="1625474085140" duration="13000" />
+      <workItem from="1635147383647" duration="3000" />
+      <workItem from="1635147399519" duration="9000" />
+      <workItem from="1635147497491" duration="579000" />
+      <workItem from="1635148845504" duration="502000" />
+      <workItem from="1635149371952" duration="743000" />
+      <workItem from="1635150731792" duration="746000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1635151194026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635151194026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="pwd" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
