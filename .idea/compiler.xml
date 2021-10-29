@@ -16,7 +16,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ElemeWebProject" options="-parameters" />
       <module name="bossWebProject" options="-parameters" />
-      <module name="taobao" options="-parameters" />
+      <module name="taobao" options="" />
     </option>
   </component>
 </project>
